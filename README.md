@@ -1,2 +1,2 @@
 # north-star-ai
-AI in the NORTH STAR
+Following the north star AI... 
